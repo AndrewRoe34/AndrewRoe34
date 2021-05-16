@@ -10,7 +10,8 @@ Adopting the principles of Object Oriented Analysis & Design as well as Algorith
 * Customizeable tasks for greater flexibility
 * Modifiable work week for increased control
 * Automated day tracker to ensure you meet your week's goals
-* Export schedule to Google Calendar for seamless integration
+* Exportable schedule to Google Calendar for seamless integration
 * Local log of all events and errors reported by system
+* Cross-platform compatability
 
 You can reach me by emai at aproe@ncsu.edu or by phone at (984)-292-7063.

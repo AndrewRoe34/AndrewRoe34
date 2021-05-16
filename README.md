@@ -14,4 +14,4 @@ Adopting the principles of Object Oriented Analysis & Design as well as Algorith
 * Local log of all events and errors reported by system
 * Cross-platform compatability
 
-You can reach me by emai at aproe@ncsu.edu or by phone at (984)-292-7063.
+If you are interested in contributing to the project, you can reach me by email at aproe@ncsu.edu or by phone at (984)-292-7063.

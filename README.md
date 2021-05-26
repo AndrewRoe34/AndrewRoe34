@@ -16,7 +16,7 @@ Adopting the principles of Object Oriented Analysis & Design as well as Algorith
 
 ## AGILE Minecraft Seeder UI
 
-After seeing a request to develop a desktop application that would provide a GUI for a Minecraft Seeder, which was only a C executable on Linux, I took up the challenge to create a cleaner interface:
+After seeing a request to develop a desktop application that would provide a GUI for a Minecraft Seeder, which was only a C executable on Linux, I took up the challenge to create a cleaner interface by utilizing an object oriented language while also designing with future enhancements in mind:
 * Wraps a C executable under a Linux environment via Java to provide a proper UI
 * Utilizes JavaFx for an improved look and feel 
 * Stores a log of all recently generated seeds

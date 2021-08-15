@@ -12,4 +12,6 @@ Adopting the principles of Object Oriented Analysis & Design as well as Algorith
 * Exportable schedule to Google Calendar for seamless integration
 * Local log of all events and errors reported by system
 
+![](https://media.giphy.com/media/sfsDnjEwcFu7l5nq95/giphy.gif)
+
 If you are interested in contributing to the project, you can reach me by email at aproe@ncsu.edu or by phone at (984)-292-7063.

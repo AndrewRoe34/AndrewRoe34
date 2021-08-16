@@ -1,6 +1,6 @@
 ## fprintf(stdout, "Welcome!");
 
-Hey there! My name is Andrew Roe and I'm currently pursuing a degree in Computer Science from NC State University. I'm experienced in Object Oriented Analysis & Design, Data Structures & Algorithms, Java, JavaFX, C, and MySQL.
+Hey there! My name is Andrew Roe and I'm currently pursuing a degree in Computer Science from NC State University. I'm experienced in Object Oriented Analysis & Design, Data Structures & Algorithms, Java, C, and MySQL.
 
 ## AGILE Planner
 

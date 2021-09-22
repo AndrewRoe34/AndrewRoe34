@@ -1,18 +1,34 @@
 ## fprintf(stdout, "Welcome!");
 
-Hey there! My name is Andrew Roe and I'm currently pursuing a degree in Computer Science from NC State University. I'm experienced in Object Oriented Analysis & Design, Data Structures & Algorithms, Java, C, and MySQL.
+Hey there! My name is Andrew Roe and I'm currently pursuing a degree in Computer Science from NC State University. I'm experienced in Object Oriented Analysis & Design, Data Structures & Algorithms, Java, C, and MySQL. Some things about me below:
+
+:blue_book: **What I'm Reading:** Introduction to Algorithms
+
+:chart_with_upwards_trend: **What I'm Learning:** にほんご
+
+:jack_o_lantern: **What I'm Playing:** Phasmophobia
+
+:musical_keyboard: **What I'm Listening:** SPYAIR
+
+:telephone_receiver: **What I'm Hobbying:** Going to local eateries
+
+:running: **What I'm Doing:** Working to make the world a little better :smile:
+
+***
 
 ## AGILE Planner
 
-Adopting the principles of Object Oriented Analysis & Design as well as Algorithm analysis, I am currently developing a full-fledge system that handles schedule generation for the everday user:
-* Autogenerate an entire work schedule from various tasks and their specs
+Solves the perpetual problem of creating a work schedule that is both dynamic in nature but intelligent enough to be actually functional:
+* Autogenerate an entire work schedule via each task's time duration and due date proximity
 * Balances all tasks intelligently with a distributive mindset
 * Customizeable tasks for greater flexibility (along with schedule regeneration)
-* Modifiable work week for increased control
-* Automated day tracker to ensure you meet your week's goals
-* Exportable schedule to Google Calendar for seamless integration
 * Local log of all events and errors reported by system
 
 ![](https://media.giphy.com/media/sfsDnjEwcFu7l5nq95/giphy.gif)
 
-If you are interested in contributing to the project, you can reach me by email at aproe@ncsu.edu or by phone at (984)-292-7063.
+## *Standardized Approach to Solving Coding Problems*
+
+A brief technical writeup that explains how to approach any coding problem that one might encounter in the technical interview
+
+***
+If you are interested in touching base, you can reach me by email at aproe@ncsu.edu or by phone at (984)-292-7063.

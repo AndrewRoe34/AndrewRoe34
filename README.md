@@ -6,11 +6,11 @@ Hey there! My name is Andrew Roe and I'm currently pursuing a degree in Computer
 
 :chart_with_upwards_trend: **What I'm Learning:** にほんご
 
-:jack_o_lantern: **What I'm Playing:** Phasmophobia
+:jack_o_lantern: **What I'm Playing:** Combat Mission: Shock Force 2
 
-:musical_keyboard: **What I'm Listening:** SPYAIR
+:musical_keyboard: **What I'm Listening:** SCANDAL
 
-:telephone_receiver: **What I'm Hobbying:** Going to local eateries
+:telephone_receiver: **What I'm Hobbying:** Putting up Christmas lights
 
 :running: **What I'm Doing:** Working to make the world a little better :smile:
 

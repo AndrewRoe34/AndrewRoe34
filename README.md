@@ -4,7 +4,7 @@ Hey there! My name is Andrew Roe and I'm currently pursuing a degree in Computer
 
 :blue_book: **What I'm Reading:** Introduction to Algorithms
 
-:chart_with_upwards_trend: **What I'm Learning:** にほんご
+:chart_with_upwards_trend: **What I'm Learning:** 毎日日本語を勉強します。今「よつばと」を読みます。
 
 :jack_o_lantern: **What I'm Playing:** Combat Mission: Shock Force 2
 

@@ -29,6 +29,7 @@ Solves the perpetual problem of creating a work schedule that is both dynamic in
 ## *Standardized Approach to Solving Coding Problems*
 
 A brief technical writeup that explains how to approach any coding problem that one might encounter in the technical interview
+[Standardized Approach to Solving Coding Problems](https://github.com/AndrewRoe34/standardized-code-solving/blob/main/A%20Standardized%20Approach%20to%20Solving%20Coding%20Problems.pdf)
 
 ***
 If you are interested in touching base, you can reach me by email at aproe@ncsu.edu or by phone at (984)-292-7063.

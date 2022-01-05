@@ -6,15 +6,21 @@ Hey there! My name is Andrew Roe and I'm currently pursuing a degree in Computer
 
 :chart_with_upwards_trend: **What I'm Learning:** 毎日日本語を勉強します。今「よつばと」を読みます。
 
-:jack_o_lantern: **What I'm Playing:** Combat Mission: Shock Force 2
+:video_game: **What I'm Playing:** Rimworld
 
 :musical_keyboard: **What I'm Listening:** SCANDAL
 
-:telephone_receiver: **What I'm Hobbying:** Putting up Christmas lights
+:telephone_receiver: **What I'm Hobbying:** Trying out local eateries
 
 :running: **What I'm Doing:** Working to make the world a little better :smile:
 
 ***
+
+## CLRS Solutions
+
+I'm currently working on the solution set for *Introduction to Algorithms*. It's a great way to refine algorithmic thinking as well as expanding knowledge. While I'm currently tackling this project solo at the moment, but feel free to make contributions or edits if interested :)
+
+[CLRS Solution Set](https://github.com/AndrewRoe34/CLRS-Solutions)
 
 ## AGILE Planner
 

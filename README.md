@@ -8,7 +8,7 @@ Hey there! My name is Andrew Roe and I'm currently pursuing a degree in Computer
 
 :video_game: **What I'm Playing:** Rimworld
 
-:musical_keyboard: **What I'm Listening:** SCANDAL
+:musical_keyboard: **What I'm Listening:** スキャンダル
 
 :telephone_receiver: **What I'm Hobbying:** Trying out local eateries
 

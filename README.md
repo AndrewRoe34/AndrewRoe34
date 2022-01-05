@@ -18,7 +18,7 @@ Hey there! My name is Andrew Roe and I'm currently pursuing a degree in Computer
 
 ## CLRS Solutions
 
-I'm currently working on the solution set for *Introduction to Algorithms*. It's a great way to refine algorithmic thinking as well as expanding knowledge. While I'm currently tackling this project solo at the moment, but feel free to make contributions or edits if interested :)
+I'm currently working on the solution set for *Introduction to Algorithms*. It's a great way to refine algorithmic thinking as well as expanding knowledge. While I'm currently tackling this project solo at the moment, feel free to make contributions or edits if interested :)
 
 [CLRS Solution Set](https://github.com/AndrewRoe34/CLRS-Solutions)
 

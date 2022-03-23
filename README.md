@@ -16,12 +16,6 @@ Hey there! My name is Andrew Roe and I'm currently pursuing a degree in Computer
 
 ***
 
-## CLRS Solutions
-
-I'm currently working on the solution set for *Introduction to Algorithms*. It's a great way to refine algorithmic thinking as well as expanding knowledge. While I'm currently tackling this project solo at the moment, feel free to make contributions or edits if interested :)
-
-[CLRS Solution Set](https://github.com/AndrewRoe34/CLRS-Solutions)
-
 ## AGILE Planner
 
 Solves the perpetual problem of creating a work schedule that is both dynamic in nature but intelligent enough to be actually functional:
@@ -30,7 +24,13 @@ Solves the perpetual problem of creating a work schedule that is both dynamic in
 * Customizeable tasks for greater flexibility (along with schedule regeneration)
 * Local log of all events and errors reported by system
 
-![](https://media.giphy.com/media/sfsDnjEwcFu7l5nq95/giphy.gif)
+[AGILE Planner Codebase](https://github.com/AGILE-Systems/AGILE-Planner-Lite)
+
+## CLRS Solutions
+
+I'm currently working on the solution set for *Introduction to Algorithms*. It's a great way to refine algorithmic thinking as well as expanding knowledge. While I'm currently tackling this project solo at the moment, feel free to make contributions or edits if interested :)
+
+[CLRS Solution Set](https://github.com/AndrewRoe34/CLRS-Solutions)
 
 ## *Standardized Approach to Solving Coding Problems*
 

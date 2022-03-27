@@ -6,8 +6,6 @@ Hey there! My name is Andrew Roe and I'm currently pursuing a degree in Computer
 
 :chart_with_upwards_trend: **What I'm Learning:** 毎日日本語を勉強しています。今「よつばと」を読みます。
 
-:video_game: **What I'm Playing:** Elden Ring & Fallout 1
-
 :musical_keyboard: **What I'm Listening:** スキャンダル
 
 :telephone_receiver: **What I'm Hobbying:** Trying out local eateries

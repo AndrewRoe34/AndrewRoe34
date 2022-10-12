@@ -37,4 +37,4 @@ A brief technical writeup that explains how to approach any coding problem that 
 [Standardized Approach to Solving Coding Problems](https://github.com/AndrewRoe34/standardized-code-solving/blob/main/A%20Standardized%20Approach%20to%20Solving%20Coding%20Problems.pdf)
 
 ***
-If you are interested in touching base, you can reach me by email at aproe@ncsu.edu or by phone at (984)-292-7063.
+P.S. If you're already at the bottom, please take an extra 30 minutes or so to star all of my repos

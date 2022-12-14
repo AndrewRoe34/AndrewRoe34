@@ -22,7 +22,7 @@ Solves the perpetual problem of creating a work schedule that is both dynamic in
 * Customizeable tasks for greater flexibility (along with schedule regeneration)
 * Local log of all events and errors reported by system
 
-[AGILE Planner Codebase](https://github.com/AGILE-Systems/AGILE-Planner-Lite)
+[AGILE Planner Codebase](https://github.com/AndrewRoe34/agile-planner)
 
 ## CLRS Solutions
 

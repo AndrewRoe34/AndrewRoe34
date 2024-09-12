@@ -19,7 +19,7 @@ QuickSched is a robust, dynamic scheduling platform that is closely configured w
 *	Tasks are timetabled at “clean” parts of the hour (to be specific, QuickSched will locate the nearest quarter hour for the start of an interval for a Task).
 
 
-[Codebase](https://github.com/AndrewRoe34/quick-schedr)
+[Codebase](https://github.com/AndrewRoe34/quick-sched)
 
 ## CLRS Solutions
 

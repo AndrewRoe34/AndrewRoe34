@@ -1,5 +1,7 @@
 Hey there! My name is Andrew Roe and I'm currently pursuing a degree in IT with a minor Computer Science. I'm a former Teaching Assistant for Data Structures & Algorithms along with Analytics. Here's what I've been working on:
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewRoe34&show_icons=true&theme=radical)
+
 ## QuickSched
 
 QuickSched is a robust, dynamic scheduling platform that is closely configured with user settings to provide flexible schedules that cater toward your specific needs. Here's a list of features it has to offer:
@@ -26,5 +28,3 @@ QuickSched is a robust, dynamic scheduling platform that is closely configured w
 A brief technical writeup that explains how to approach any coding problem that one might encounter in the technical interview
 
 [Standardized Approach to Solving Coding Problems](https://github.com/AndrewRoe34/standardized-code-solving/blob/main/A%20Standardized%20Approach%20to%20Solving%20Coding%20Problems.pdf)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewRoe34&show_icons=true&theme=radical)

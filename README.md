@@ -21,14 +21,10 @@ QuickSched is a robust, dynamic scheduling platform that is closely configured w
 
 [Codebase](https://github.com/AndrewRoe34/quick-sched)
 
-## CLRS Solutions
-
-I'm currently working on the solution set for *Introduction to Algorithms*. It's a great way to refine algorithmic thinking as well as expanding knowledge. While I'm currently tackling this project solo at the moment, feel free to make contributions or edits if interested :)
-
-[CLRS Solution Set](https://github.com/AndrewRoe34/CLRS-Solutions)
-
 ## *Standardized Approach to Solving Coding Problems*
 
 A brief technical writeup that explains how to approach any coding problem that one might encounter in the technical interview
 
 [Standardized Approach to Solving Coding Problems](https://github.com/AndrewRoe34/standardized-code-solving/blob/main/A%20Standardized%20Approach%20to%20Solving%20Coding%20Problems.pdf)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewRoe34&show_icons=true&theme=radical)
